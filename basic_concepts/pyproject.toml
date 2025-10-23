@@ -1,0 +1,10 @@
+[project]
+name = "basic-concepts"
+version = "1.0.0"
+description = "LLM Tutorials"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain[google-vertexai,openai]>=1.0.2",
+    "langgraph>=1.0.1",
+]
