@@ -27,7 +27,7 @@ def say_hello(state: MyState) -> MyState:
         MyState: The updated state containing the generated message.
     """
 
-    state['message'] = f"hello {state['name']}"
+    state['message'] = f"Hello {state['name']}"
     return state
 
 # Build the Langgraph workflow

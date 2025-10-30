@@ -2,8 +2,9 @@
     "dependencies": ".",
     "graphs": {
         "main": "main:graph",
-        "calc_add":"calc_add:graph",
-        "calc_sub":"calc_sub:graph"
+        "calc_add": "calc_add:graph",
+        "calc_sub": "calc_sub:graph",
+        "calc_mul": "calc_mul:graph"
     }
 
 }
