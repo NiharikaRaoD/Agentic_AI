@@ -1,0 +1,7 @@
+{
+    "dependencies": ".",
+    "graphs": {
+        "mail_tone": "mail_tone:graph"
+    }
+
+}
