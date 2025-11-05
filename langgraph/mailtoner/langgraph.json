@@ -1,7 +1,8 @@
 {
     "dependencies": ".",
     "graphs": {
-        "mail_tone": "mail_tone:graph"
+        "mail_tone": "mail_tone:graph",
+        "historian": "historian:graph"
     }
 
 }
