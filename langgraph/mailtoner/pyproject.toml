@@ -1,7 +1,7 @@
 [project]
 name = "mailtoner"
 version = "1.0.0"
-description = "Change tone of an email"
+description = "Langgraph Concepts"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
@@ -13,3 +13,4 @@ dependencies = [
     "langgraph-cli[inmem]>=0.4.5",
     "python-dotenv>=1.2.1",
 ]
+
