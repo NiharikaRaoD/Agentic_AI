@@ -8,6 +8,7 @@ dependencies = [
     "git-filter-repo>=2.47.0",
     "langchain>=1.0.3",
     "langchain-google-vertexai>=3.0.1",
+    "langchain-tavily>=0.2.13",
     "langgraph>=1.0.2",
     "langgraph-checkpoint-sqlite>=3.0.0",
     "langgraph-cli[inmem]>=0.4.5",
